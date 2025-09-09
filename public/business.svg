@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" id="business">
+  <g transform="translate(-183 -1175.362)">
+    <path fill="#8bc34a" fill-rule="evenodd" d="M190 1229.362v-10l11.958-11.937 2.921 3 7.942-8 1.947 2L227 1192.36v37.002z"></path>
+    <path fill="none" stroke="#37474f" d="M187.5 1182.362v50m47.5-2.5h-50"></path>
+    <path fill="none" stroke="#263238" d="m189.34 1219.362 13-12 3 3 8-8 2 2 12.005-12.346"></path>
+    <path fill="none" stroke="#263238" d="M224 1191.862h3.5v3.5m-36 25v7m3-10v10m3-13v13m3-16v16m3-16v16m3-15v15m3-18v18m3-21v21m3-20v20m3-23v23m3-26v26m3-29v29"></path>
+    <g transform="translate(183 185)">
+      <path fill="#ff9800" d="M53.5 1035.362h2v5h-2z" color="#000" overflow="visible" style="isolation:auto;mix-blend-mode:normal"></path>
+      <path fill="none" stroke="#ffc107" stroke-linecap="round" stroke-linejoin="round" d="M52 1030.862h-2a3.492 3.492 0 0 1-3.5-3.5v-.729m0-.179v-2.592h3.321" color="#000" overflow="visible" style="isolation:auto;mix-blend-mode:normal" transform="matrix(-1 0 0 1 109 2)"></path>
+      <path fill="none" stroke="#ffc107" stroke-linecap="round" stroke-linejoin="round" d="M52 1032.862h-2a3.492 3.492 0 0 1-3.5-3.5v-.73m0-.178v-2.592h3.321" color="#000" overflow="visible" style="isolation:auto;mix-blend-mode:normal"></path>
+      <rect width="11" height="11" x="49" y="1025.362" fill="#ffc107" color="#000" overflow="visible" rx="4.889" ry="4.889" style="isolation:auto;mix-blend-mode:normal"></rect>
+      <rect width="11" height="8" x="49" y="1023.362" fill="#ffc107" color="#000" overflow="visible" rx="0" ry="0" style="isolation:auto;mix-blend-mode:normal"></rect>
+      <path fill="#ff9800" d="m54 1036.362-.89-.301-.752.561.012-.939-.767-.542.897-.279.279-.897.542.767.94-.012-.563.753z" color="#000" overflow="visible" style="isolation:auto;mix-blend-mode:normal" transform="rotate(8.722 5946.841 1188.277)scale(1.85876)"></path>
+      <rect width="5" height="1" x="52" y="1040.362" fill="#ffc107" color="#000" overflow="visible" rx=".5" ry=".5" style="isolation:auto;mix-blend-mode:normal"></rect>
+      <rect width="5" height="1" x="52" y="1040.862" fill="#ffc107" color="#000" overflow="visible" rx="0" ry="0" style="isolation:auto;mix-blend-mode:normal"></rect>
+      <rect width="9" height="4" x="50" y="1041.362" fill="#6d4c41" color="#000" overflow="visible" rx="1" ry="1" style="isolation:auto;mix-blend-mode:normal"></rect>
+      <path fill="#6d4c41" d="M50 1043.362h9v2h-9z" color="#000" overflow="visible" style="isolation:auto;mix-blend-mode:normal"></path>
+      <path fill="#f57c00" d="M52 1043.362h5v1h-5z" color="#000" overflow="visible" style="isolation:auto;mix-blend-mode:normal"></path>
+    </g>
+    <path fill="#4caf50" d="M190 1185.362h2v2h-2z" color="#000" overflow="visible" style="isolation:auto;mix-blend-mode:normal"></path>
+    <path fill="#f44336" d="M190 1189.362h2v2h-2z" color="#000" overflow="visible" style="isolation:auto;mix-blend-mode:normal"></path>
+    <path fill="#e9eded" d="M193 1185.362h4v2h-4zM193 1189.362h4v2h-4z" color="#000" overflow="visible" style="isolation:auto;mix-blend-mode:normal"></path>
+    <path fill="#b0bec5" d="M199 1185.362h11v2h-11zM199 1189.362h11v2h-11z" color="#000" overflow="visible" style="isolation:auto;mix-blend-mode:normal"></path>
+    <path fill="none" stroke="#6d4c41" stroke-linecap="round" stroke-linejoin="round" d="m229.081 1207.857 1.414-1.414m-1.414 0 1.414 1.414"></path>
+    <path fill="none" stroke="#47a146" stroke-linecap="round" stroke-linejoin="round" d="m244.575 1205.488.919-.53m-2.375.14-.53-.919m1.598 2.758.53.919m-1.987-1.309-.918.53"></path>
+    <path fill="none" stroke="#f44336" stroke-linecap="round" stroke-linejoin="round" d="m231.626 1223.366.868-.5m-2.238.13-.494-.855m1.505 2.595.493.854m-1.876-1.224-.854.493"></path>
+    <path fill="none" stroke="#0277bd" stroke-linecap="round" stroke-linejoin="round" d="m244.08 1227.857 1.415-1.414m-1.414 0 1.414 1.414"></path>
+    <circle cx="233.5" cy="1203.862" r="1" fill="none" stroke="#2196f3" stroke-linecap="round" stroke-linejoin="round" color="#000" overflow="visible" style="isolation:auto;mix-blend-mode:normal"></circle>
+    <circle cx="242.5" cy="1222.862" r=".5" fill="#f44336" color="#000" overflow="visible" style="isolation:auto;mix-blend-mode:normal"></circle>
+    <circle cx="229.5" cy="1226.862" r=".5" fill="#4caf50" color="#000" overflow="visible" style="isolation:auto;mix-blend-mode:normal"></circle>
+  </g>
+</svg>
