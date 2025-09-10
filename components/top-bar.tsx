@@ -52,7 +52,7 @@ const Topbar = () => {
               >
                 <FaFacebookF
                   color="#ffffff"
-                  className="hover:text-white/80 h-5 w-5"
+                  className="hover:text-white/90 h-5 w-5"
                 />
               </a>
 
