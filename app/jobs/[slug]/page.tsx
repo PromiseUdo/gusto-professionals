@@ -25,7 +25,10 @@ const page = async ({ params }: { params: IParams }) => {
       <Banner />
 
       <MaxWidthWrapper>
-        <JobContent items={items} title={items[0]?.fields?.title || ""} />
+        <JobContent
+          items={items}
+          title={String(items[0]?.fields?.title || "")}
+        />
       </MaxWidthWrapper>
     </div>
   );
