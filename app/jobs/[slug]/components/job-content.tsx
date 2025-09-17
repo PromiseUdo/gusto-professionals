@@ -102,6 +102,17 @@ const JobContent: React.FC<BlogPostClientProps> = ({ items, title }) => {
       <div className="h-full w-full pb-8 prose prose-lg max-w-none">
         {documentToReactComponents(content, richTextOptions)}
       </div>
+      <div className="my-6 flex flex-col items-start justify-start gap-y-4 ">
+        <Button
+          asChild
+          size={"lg"}
+          className="mt-2 text-white !rounded bg-[#05418f] hover:bg-[#04306e]"
+        >
+          <a target="_blank" href={recruitmentUrl}>
+            Apply
+          </a>
+        </Button>
+      </div>
     </div>
   );
 };
