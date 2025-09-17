@@ -31,6 +31,7 @@ const Footer = () => {
         // { label: "Why Gusto?", href: "/" },
         { label: "Recruitment", href: "/" },
         { label: "Contact", href: "/contact-us" },
+        { label: "Jobs", href: "/jobs" },
         { label: "Blog", href: "/blog" },
       ],
     },

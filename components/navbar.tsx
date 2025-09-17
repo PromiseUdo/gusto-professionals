@@ -375,6 +375,13 @@ const Navbar = () => {
                 >
                   Recruitment
                 </a>
+
+                <Link
+                  href="/jobs"
+                  className="hover:text-safetyYellow transition-colors duration-200"
+                >
+                  Jobs
+                </Link>
                 <button
                   onClick={() => setIsSearchOpen(true)}
                   className="text-[#1e1e1e] hover:text-safetyYellow transition-colors duration-200"
