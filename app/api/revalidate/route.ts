@@ -12,7 +12,9 @@ export async function POST(request: Request) {
   try {
     // Revalidate the blog index and all post pages
     await revalidatePath("/blog"); // Blog index
+    await revalidatePath("/jobs"); // Blog index
     await revalidatePath("/blog/[slug]", "page"); // All post pages
+    await revalidatePath("/jobs/[slug]", "page"); // All post pages
     return NextResponse.json({ revalidated: true });
   } catch (error) {
     console.error("Revalidation error:", error);
